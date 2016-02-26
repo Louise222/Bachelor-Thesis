@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This repository contrains all the data and code which this paper shows. You can make repruducible research based on my materials.
+This repository contrains all the data and code which this paper shows. You can make repruducible research based on these materials.
 
 ## Abstract
 
