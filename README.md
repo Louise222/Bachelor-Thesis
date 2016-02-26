@@ -21,6 +21,7 @@ This paper presents a general reproducing kernel Hilbert Spaces (RKHS) framework
 ### Acknowledgements
 
 Some of the data and code used in this paper comes from Cousera Online Course: Machine Learning, Andrew Ng.
+
 The algorithm of kernel PCA is created by Ambarish Jash.
 
 © Yingjie Cao 2016 All Rights reserved.
