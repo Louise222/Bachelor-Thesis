@@ -22,5 +22,6 @@ This paper presents a general reproducing kernel Hilbert Spaces (RKHS) framework
 
 - Some of the data and code used in this paper comes from Cousera Online Course: Machine Learning, Andrew Ng.
 - The algorithm of kernel PCA is created by Ambarish Jash.
+- The algorithm of SVM in Chapter 4 relies on LIBSVM package.
 
 © Yingjie Cao 2016 All Rights reserved.
