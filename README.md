@@ -15,7 +15,7 @@ This paper presents a general reproducing kernel Hilbert Spaces (RKHS) framework
 - Chapter 1: Introduction
 - Chapter 2: Reproducing Kernel Hilbert Spaces
 - Chapter 3: Applications in Different Statistical Learning Algorithms
-- Chapter 4: Real-World Example: handwritten digits cognition
+- Chapter 4: Real-World Example: handwritten digits recognition
 - Chapter 5: Conclusion
 
 ### Acknowledgements
